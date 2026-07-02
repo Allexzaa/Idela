@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=52&duration=1&pause=100000&repeat=false&color=0D1B2A&center=true&vCenter=true&width=500&height=80&lines=IDELA" alt="Idela"/>
+  <img src="./title.svg" alt="Idela" width="500" height="80"/>
 </p>
 <p align="center"><b>Idea → Architecture Design System</b></p>
 <p align="center">A structured, Claude-driven process for turning a raw idea into a reviewed,<br/>decision-locked architecture package — before any feature spec or code gets written.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/stage-0%20%E2%80%94%20idea%20intake-lightgrey" alt="stage badge"/>
-  <img src="https://img.shields.io/badge/license-proprietary%20%2B%20collaborative-black" alt="license badge"/>
+  <img src="https://img.shields.io/badge/stage-0%20%E2%80%94%20idea%20intake-38BDF8?labelColor=0D1B2A" alt="stage badge"/>
+  <img src="https://img.shields.io/badge/license-proprietary%20%2B%20collaborative-38BDF8?labelColor=0D1B2A" alt="license badge"/>
 </p>
 
 ---
