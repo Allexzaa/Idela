@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.png" alt="Idela logo" width="220"/>
+</p>
+
 <h1 align="center">Idela</h1>
 <p align="center"><b>Idea → Architecture Design System</b></p>
 <p align="center">A structured, Claude-driven process for turning a raw idea into a reviewed,<br/>decision-locked architecture package — before any feature spec or code gets written.</p>
